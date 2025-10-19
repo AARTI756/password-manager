@@ -79,3 +79,5 @@ sudo apt install gpg bash coreutils
 
 ---
 
+## 🎥 Demo Video
+Watch the demo provided in repo.
