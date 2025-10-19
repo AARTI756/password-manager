@@ -80,4 +80,5 @@ sudo apt install gpg bash coreutils
 ---
 
 ## 🎥 Demo Video
-Watch the demo provided in repo.
+Watch the demo:
+https://github.com/AARTI756/password-manager/blob/main/password_manager.mp4
